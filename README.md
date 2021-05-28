@@ -1,1 +1,1 @@
-freeCodeCamps projects for the Scientific Computing with Python Certification in [freecodecamp.org/learn/]https://www.freecodecamp.org/learn/
+freeCodeCamps projects for the Scientific Computing with Python Certification in [https://www.freecodecamp.org/learn/]freecodecamp.org/learn
